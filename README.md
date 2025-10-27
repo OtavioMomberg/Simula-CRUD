@@ -4,7 +4,7 @@
 
 Um simples projeto desenvolvido em C, com o objetivo de simular 
 as operações de um CRUD (create, read, update e delete). Neste 
-projeto foi utilizado conceitos devalocação dinâmica de memória,
+projeto foi utilizado conceitos de alocação dinâmica de memória,
 modularização de código, uso de ponteiros, separação do projeto em
 arquivos separados e a utilização de struct para simular o funcionamento
 de uma classe.
